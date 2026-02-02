@@ -22,9 +22,9 @@ O objetivo é transformar dados brutos de plataformas como CazéTV e Paulistão 
 > *Exemplo de gráfico gerado automaticamente pelo script com dados atualizados de 9 jogos.*
 
 ## 🧠 Insights de Negócio
-Através da automação, conseguimos identificar rapidamente que:
-- A plataforma **CazéTV** concentra o maior volume de audiência acumulada.
-- Jogos específicos como o clássico **Flamengo x Vasco** servem como catalisadores de pico para a audiência total.
+### 📈 Atualização Recente: Dados Reais e Automação (Fev/2026)
 
----
-Desenvolvido como projeto prático para a vaga de **Estágio em Dados na LiveMode**.
+O projeto foi evoluído para incluir um pipeline de dados verídicos, trazendo mais fidelidade às análises de audiência:
+- **Novos Dados:** Substituição de dados fictícios por recordes reais de 2024, como o pico de 4.1M na CazéTV (Corinthians x SP).
+- **Scripts de Setup:** Criação do `setup_dados.py` para garantir a geração padronizada do dataset CSV.
+- **Automação de Output:** O motor de análise agora gera automaticamente relatórios em Excel, gráficos de performance e rascunhos de e-mail executivos baseados nesses novos números.
