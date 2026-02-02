@@ -22,7 +22,7 @@ O Docker cria um ambiente isolado (container), evitando que você precise instal
 
 ## 📈 Visualização Gerada
 ![Gráfico de Audiência](audiencia_por_plataforma.png)
-> *Exemplo de gráfico gerado automaticamente pelo script com dados atualizados de 9 jogos.*
+> *Exemplo de gráfico gerado automaticamente pelo script com dados atualizados de 7 jogos.*
 
 ## 🧠 Insights de Negócio
 ### 📈 Atualização Recente: Dados Reais e Automação (Fev/2026)
