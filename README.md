@@ -16,6 +16,9 @@ O objetivo é transformar dados brutos de plataformas como CazéTV e Paulistão 
 - **Matplotlib**: Visualização de dados técnica.
 - **Openpyxl**: Motor para geração de arquivos Excel.
 - **Webbrowser & Urllib**: Automação de interface para comunicação (E-mail).
+- Docker: Para garantir que o projeto rode com as mesmas versões de bibliotecas em qualquer computador.
+- 🐳 Como Executar via Docker
+O Docker cria um ambiente isolado (container), evitando que você precise instalar Python ou bibliotecas manualmente na sua máquina.
 
 ## 📈 Visualização Gerada
 ![Gráfico de Audiência](audiencia_por_plataforma.png)
