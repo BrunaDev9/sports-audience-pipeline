@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Criando os dados reais baseados na nossa pesquisa
+# Criando os dados reais
 dados_reais = {
     'jogo': [
         'Corinthians x Sao Paulo', 'Palmeiras x Santos (Final)', 
@@ -23,7 +23,7 @@ dados_reais = {
 # Criando o DataFrame
 df = pd.DataFrame(dados_reais)
 
-# Salvando como audiencia.csv (isso vai substituir o seu arquivo antigo)
+# Salvando como audiencia.csv 
 df.to_csv('audiencia.csv', index=False)
 
 print("🚀 Arquivo 'audiencia.csv' atualizado com dados REAIS de 2024!")
