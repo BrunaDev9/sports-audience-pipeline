@@ -1,13 +1,13 @@
-jogo,Plataforma,audiencia_pico,data
-Corinthians x São Paulo,CazeTV (YouTube),4100000,2024-01-30
-Palmeiras x Santos (Final),Paulistão Play,1500000,2024-04-07
-Novorizontino x Palmeiras,CazeTV (YouTube),1200000,2024-01-21
-Flamengo x Vasco,CazeTV (YouTube),3500000,2024-02-04
-NBA Finals (Game 5),CazeTV (YouTube),800000,2024-06-17
-Brasil x Costa Rica,CazeTV (YouTube),2800000,2024-06-24
-Santos x Botafogo-SP,CazeTV (YouTube),700000,2024-01-20
-Palmeiras x Santos,YouTube (CazéTV),2.850.000,Mar/2026,Final Paulistão 2026
-Corinthians x São Paulo,Record / YouTube,2.100.000,Fev/2026,Paulistão 2026
-Brasil x Argentina,Prime Video,3.400.000,Jan/2026,Pré-Olímpico Masculino
-Flamengo x Fluminense,Band / YouTube,1.950.000,Mar/2026,Cariocão 2026
-CazéTV x Mundo (All-Stars),YouTube (CazéTV),1.100.000,Abr/2026,Amistoso Beneficente
+jogo, Plataforma, audiencia_pico, data, competicao
+Corinthians x São Paulo,CazeTV (YouTube),4100000,2024-01-30,Paulistão 2024
+Palmeiras x Santos (Final),Paulistão Play,1500000,2024-04-07,Paulistão 2024
+Novorizontino x Palmeiras,CazeTV (YouTube),1200000,2024-01-21,Paulistão 2024
+Flamengo x Vasco,CazeTV (YouTube),3500000,2024-02-04,Cariocão 2024
+NBA Finals (Game 5),CazeTV (YouTube),800000,2024-06-17,NBA 2024
+Brasil x Costa Rica,CazeTV (YouTube),2800000,2024-06-24,Copa América 2024
+Santos x Botafogo-SP,CazeTV (YouTube),700000,2024-01-20,Paulistão 2024
+Palmeiras x Santos,YouTube (CazéTV),2850000,Mar/2026,Final Paulistão 2026
+Corinthians x São Paulo,Record / YouTube,2100000,Fev/2026,Paulistão 2026
+Brasil x Argentina,Prime Video,3400000,Jan/2026,Pré-Olímpico Masculino
+Flamengo x Fluminense,Band / YouTube,1950000,Mar/2026,Cariocão 2026
+CazéTV x Mundo (All-Stars),YouTube (CazéTV),1100000,Abr/2026,Amistoso Beneficente
